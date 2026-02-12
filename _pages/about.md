@@ -67,5 +67,6 @@ Zhihao Zhang, Siyuan Li, **Chenxi Li**, Feifan Liu, Mengjing Chen, Kai Li, Tao Z
 - *2023.12* Heilongjiang Outstanding Undergraduate (Top 2%)
 - *2025.12* MuCang Scholarship from Faculty of Computing, Harbin Institute of Technology (Top 1%)
 - *2026.01* HKUST RedBird PhD Recruitment Award
+
 ---
-<p style="text-align: center;"><em>Last update in January 2026</em></p>
+<p style="text-align: center;"><em>Last update in February 2026</em></p>
