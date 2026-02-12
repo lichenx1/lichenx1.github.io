@@ -26,10 +26,25 @@ My current research interests lie in Agents, Multi-Agent Systems, and Reinforcem
 
 # 🔥 News
 <!-- - *2025.05*: &nbsp; xxx is released. -->
-
-
+- *2026.02*: &nbsp;🎉🎉 Our work [P1-VL](https://arxiv.org/abs/2602.09443) is released.
+- *2026.01*: &nbsp;🎉🎉 I have received the HKUST RedBird PhD Recruitment Award. Many thanks for the recognition!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/P1-VL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads**
+
+P1 Team, Shanghai AI Laboratory
+
+<!-- <span style="color:red;">(Accepted by )</span> -->
+
+<a href="https://arxiv.org/abs/2602.09443" target="_blank">**Paper**</a>
+<!-- <a href="" target="_blank">**Project**</a> -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/DHEvo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,10 +60,12 @@ Zhihao Zhang, Siyuan Li, **Chenxi Li**, Feifan Liu, Mengjing Chen, Kai Li, Tao Z
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2023.12* National Scholarship (Top 2%).
-- *2023.12* Heilongjiang Outstanding Undergraduate (Top 2%).
-- *2025.12* MuCang Scholarship from Faculty of Computing, Harbin Institute of Technology (Top 1%).
 
+
+# 🎖 Honors and Awards
+- *2023.12* National Scholarship (Top 2%)
+- *2023.12* Heilongjiang Outstanding Undergraduate (Top 2%)
+- *2025.12* MuCang Scholarship from Faculty of Computing, Harbin Institute of Technology (Top 1%)
+- *2026.01* HKUST RedBird PhD Recruitment Award
 ---
 <p style="text-align: center;"><em>Last update in January 2026</em></p>
