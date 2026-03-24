@@ -45,20 +45,20 @@ P1 Team, Shanghai AI Laboratory
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/DHEvo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/DHEvo.png' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1"> -->
 
-**DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving**
+<!-- **DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving** -->
 
-Zhihao Zhang, Siyuan Li, **Chenxi Li**, Feifan Liu, Mengjing Chen, Kai Li, Tao Zhong, Bo An, Peng Liu
+<!-- Zhihao Zhang, Siyuan Li, **Chenxi Li**, Feifan Liu, Mengjing Chen, Kai Li, Tao Zhong, Bo An, Peng Liu -->
 
 <!-- <span style="color:red;">(Accepted by )</span> -->
 
-<a href="https://arxiv.org/abs/2507.15615" target="_blank">**Paper**</a>
+<!-- <a href="https://arxiv.org/abs/2507.15615" target="_blank">**Paper**</a> -->
 <!-- <a href="" target="_blank">**Project**</a> -->
 
-</div>
-</div>
+<!-- </div> -->
+<!-- </div> -->
 
 
 
