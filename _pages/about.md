@@ -26,10 +26,27 @@ My current research interests lie in Agents, Multi-Agent Systems, and Reinforcem
 
 # 🔥 News
 <!-- - *2025.05*: &nbsp; xxx is released. -->
+- *2026.05*: &nbsp;🎉🎉 Our work [SU-01](https://arxiv.org/abs/2605.13301) is released.
 - *2026.02*: &nbsp;🎉🎉 Our work [P1-VL](https://arxiv.org/abs/2602.09443) is released.
 - *2026.01*: &nbsp;🎉🎉 I have received the HKUST RedBird PhD Recruitment Award. Many thanks for the recognition!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/SU-01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SU-01: Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling**
+
+P1 Team, Shanghai AI Laboratory
+
+<!-- <span style="color:red;">(Accepted by )</span> -->
+
+<a href="https://arxiv.org/abs/2605.13301" target="_blank">**Paper**</a>
+<!-- <a href="" target="_blank">**Project**</a> -->
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/P1-VL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,6 +84,6 @@ P1 Team, Shanghai AI Laboratory
 - *2023.12* Heilongjiang Outstanding Undergraduate (Top 2%)
 - *2025.12* MuCang Scholarship from Faculty of Computing, Harbin Institute of Technology (Top 1%)
 - *2026.01* HKUST RedBird PhD Recruitment Award
-
+- *2026.05* Outstanding Graduate of Heilongjiang Province
 ---
-<p style="text-align: center;"><em>Last update in February 2026</em></p>
+<p style="text-align: center;"><em>Last update in May 2026</em></p>
