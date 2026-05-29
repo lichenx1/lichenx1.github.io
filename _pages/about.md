@@ -26,6 +26,7 @@ My current research interests lie in Agents, Multi-Agent Systems, and Reinforcem
 
 # 🔥 News
 <!-- - *2025.05*: &nbsp; xxx is released. -->
+- *2026.05*: &nbsp;🎉🎉 Awarded Outstanding Graduate of Heilongjiang Province.
 - *2026.05*: &nbsp;🎉🎉 Our work [SU-01](https://arxiv.org/abs/2605.13301) is released.
 - *2026.02*: &nbsp;🎉🎉 Our work [P1-VL](https://arxiv.org/abs/2602.09443) is released.
 - *2026.01*: &nbsp;🎉🎉 I have received the HKUST RedBird PhD Recruitment Award. Many thanks for the recognition!
@@ -85,5 +86,6 @@ P1 Team, Shanghai AI Laboratory
 - *2025.12* MuCang Scholarship from Faculty of Computing, Harbin Institute of Technology (Top 1%)
 - *2026.01* HKUST RedBird PhD Recruitment Award
 - *2026.05* Outstanding Graduate of Heilongjiang Province
+
 ---
 <p style="text-align: center;"><em>Last update in May 2026</em></p>
