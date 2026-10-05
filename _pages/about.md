@@ -19,19 +19,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Chenxi Li, a final-year undergraduate student at [Harbin Institute of Technology](http://www.hit.edu.cn/). Currently, I am pursuing a research internship at [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I am gaining hands-on experience and deepening my expertise in my core research areas. I will be joining [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as a Ph.D. student in Fall 2026.
+Hi! I am Chenxi Li, a first-year Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). I received my bachelor's degree from [Harbin Institute of Technology](http://www.hit.edu.cn/).
 
-My current research interests lie in Agents, Multi-Agent Systems, and Reinforcement Learning. Feel free to contact me.
-
+My research interests lie in Agent and Recursive Self-Improvement (RSI). Feel free to contact me.
 
 # 🔥 News
 <!-- - *2025.05*: &nbsp; xxx is released. -->
+- *2026.09*: &nbsp;🎉🎉 Our work [SciWalker](https://arxiv.org/abs/2609.30054) is released.
 - *2026.05*: &nbsp;🎉🎉 Awarded Outstanding Graduate of Heilongjiang Province.
 - *2026.05*: &nbsp;🎉🎉 Our work [SU-01](https://arxiv.org/abs/2605.13301) is released.
 - *2026.02*: &nbsp;🎉🎉 Our work [P1-VL](https://arxiv.org/abs/2602.09443) is released.
 - *2026.01*: &nbsp;🎉🎉 I have received the HKUST RedBird PhD Recruitment Award. Many thanks for the recognition!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/SciWalker.png' alt="SciWalker framework: operator construction, graph sampling, problem generation, and validation and repair" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback**
+
+**Chenxi Li**, Wenxuan Zeng, Yun Luo, Fangchen Yu, Peng Ye, Yu Cheng, Jun Zhang
+
+<a href="https://arxiv.org/abs/2609.30054" target="_blank">**Paper**</a> / <a href="https://github.com/lichenx1/SciWalker" target="_blank">**Code**</a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/SU-01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,4 +100,4 @@ P1 Team, Shanghai AI Laboratory
 - *2026.05* Outstanding Graduate of Heilongjiang Province
 
 ---
-<p style="text-align: center;"><em>Last update in May 2026</em></p>
+<p style="text-align: center;"><em>Last update in October 2026</em></p>
